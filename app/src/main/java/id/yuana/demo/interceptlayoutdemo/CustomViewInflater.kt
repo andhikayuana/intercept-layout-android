@@ -8,6 +8,7 @@ import com.google.android.material.theme.MaterialComponentsViewInflater
 /**
  * @see: https://helw.net/2018/08/06/appcompat-view-inflation/
  * @see: https://academy.realm.io/posts/layoutinflater-droid-kaigi-2017-jenx/
+ * @see: http://blog.bradcampbell.nz/layoutinflater-factories/
  */
 @Keep
 //class CustomViewInflater : AppCompatViewInflater() {
